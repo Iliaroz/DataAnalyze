@@ -7,3 +7,4 @@ seaborn
 statsmodels
 jupyterlab-link-share
 xeus-python
+jupyterlab-git
