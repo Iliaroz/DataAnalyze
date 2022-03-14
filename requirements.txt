@@ -5,3 +5,4 @@ pandas
 statsmodels
 seaborn
 statsmodels
+jupyterlab_link_share
