@@ -1,10 +1,8 @@
 numpy
 matplotlib
 pandas
-pandas
 statsmodels
 seaborn
-statsmodels
 jupyterlab-link-share
-xeus-python
+viola
 jupyterlab-git
